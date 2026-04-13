@@ -35,6 +35,15 @@
         "proyectos/Buinzoo/img3.jpg",
         "proyectos/Buinzoo/img4.jpg"
       ]
+    },
+    {
+      "id": "prueba-sumo",
+      "titulo": "Prueba sumo",
+      "descripcion": "Esto es un aprueba para probar lo que hice",
+      "galeria": [
+        "proyectos/img1.jpg"
+      ],
+      "imagen": "proyectos/cover.jpg"
     }
   ]
 }
