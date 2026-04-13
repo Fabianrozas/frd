@@ -8,19 +8,20 @@ public_folder: "proyectos"
 collections:
   - name: "proyectos"
     label: "Proyectos"
-    label_singular: "Proyecto"
-    file: "proyectos.json"
-    fields:
-      - name: "items"
+    files:
+      - name: "lista"
         label: "Lista de proyectos"
-        widget: "list"
-        label_singular: "Proyecto"
+        file: "proyectos.json"
         fields:
-          - { label: "ID (nombre de carpeta, sin espacios)", name: "id", widget: "string", hint: "Ej: mi-proyecto — debe coincidir con el nombre de la carpeta dentro de /proyectos/" }
-          - { label: "Título", name: "titulo", widget: "string" }
-          - { label: "Descripción", name: "descripcion", widget: "text" }
-          - { label: "Imagen de portada", name: "imagen", widget: "image", media_folder: "/proyectos", public_folder: "proyectos" }
-          - label: "Galería"
-            name: "galeria"
+          - name: "items"
+            label: "Proyectos"
             widget: "list"
-            field: { label: "Imagen", name: "imagen", widget: "image", media_folder: "/proyectos", public_folder: "proyectos" }
+            fields:
+              - { label: "ID (nombre de carpeta, sin espacios)", name: "id", widget: "string" }
+              - { label: "Título", name: "titulo", widget: "string" }
+              - { label: "Descripción", name: "descripcion", widget: "text" }
+              - { label: "Imagen de portada", name: "imagen", widget: "image" }
+              - label: "Galería"
+                name: "galeria"
+                widget: "list"
+                field: { label: "Imagen", name: "imagen", widget: "image" }
