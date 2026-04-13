@@ -4,7 +4,7 @@ const id = params.get("id");
 fetch("proyectos.json")
   .then(res => res.json())
   .then(data => {
-    const proyecto = data.find(p => p.id == id);
+    const proyecto = data.items.find(p => p.id == id);
 
     const contenedor = document.getElementById("detalle");
 

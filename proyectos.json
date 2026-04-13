@@ -1,74 +1,40 @@
-[
-  {
-    "id": "proyecto-oceano",
-    "titulo": "Oceano",
-    "descripcion": "Info proyecto 1 sobre bla bla",
-    "imagen": "proyectos/proyecto-oceano/cover.jpg",
-    "galeria": [
-      "proyectos/proyecto-oceano/img1.jpg",
-      "proyectos/proyecto-oceano/img2.jpg"
-    ]
-  },
-  {
-    "id": "Municipalidad-Buin",
-    "titulo": "Logotipo Buin",
-    "descripcion": "Identidad visual",
-    "imagen": "proyectos/Municipalidad-Buin/cover.jpg",
-    "galeria": [
-      "proyectos/Municipalidad-Buin/img1.jpg",
-      "proyectos/Municipalidad-Buin/img6.gif",
-      "proyectos/Municipalidad-Buin/img2.jpg",
-      "proyectos/Municipalidad-Buin/img3.jpg",
-      "proyectos/Municipalidad-Buin/img4.jpg",
-      "proyectos/Municipalidad-Buin/img5.jpg"
-    ]
-  },
+{
+  "items": [
     {
-    "id": "Buinzoo",
-    "titulo": "Infografía de especies Buinzoo",
-    "descripcion": "Uno de los principales desafíos observados en los visitantes del Bioparque es el bajo interés por la lectura durante el recorrido. La experiencia inmersiva entre animales, vegetación y estructuras llamativas genera múltiples estímulos que dificultan que el público se detenga a leer los contenidos informativos. La renovación de estas piezas, además de alinearse con la nueva marca y los conceptos del Parque, buscaba destacar en un entorno altamente visual y evitar que el diseño fuese percibido solo como decoración. Con este objetivo, se decidió eliminar elementos decorativos excesivos para priorizar la claridad del mensaje. Se optó por un diseño más limpio y directo, reduciendo texturas y ornamentos que, si bien resultaban atractivos, terminaban por distraer y provocar fatiga visual.",
-    "imagen": "proyectos/Buinzoo/cover.jpg",
-    "galeria": [
-      "proyectos/Buinzoo/img1.gif",
-      "proyectos/Buinzoo/img2.jpg",
-      "proyectos/Buinzoo/img3.jpg",
-      "proyectos/Buinzoo/img4.jpg"
-    ]
-  },
-  {
-    "id": "proyecto-oceano",
-    "titulo": "Oceano",
-    "descripcion": "Info proyecto 1 sobre bla bla",
-    "imagen": "proyectos/proyecto-oceano/cover.jpg",
-    "galeria": [
-      "proyectos/proyecto-oceano/img1.jpg",
-      "proyectos/proyecto-oceano/img2.jpg"
-    ]
-  },
-  {
-    "id": "Municipalidad-Buin",
-    "titulo": "Logotipo Buin",
-    "descripcion": "Identidad visual",
-    "imagen": "proyectos/Municipalidad-Buin/cover.jpg",
-    "galeria": [
-      "proyectos/Municipalidad-Buin/img1.jpg",
-      "proyectos/Municipalidad-Buin/img6.gif",
-      "proyectos/Municipalidad-Buin/img2.jpg",
-      "proyectos/Municipalidad-Buin/img3.jpg",
-      "proyectos/Municipalidad-Buin/img4.jpg",
-      "proyectos/Municipalidad-Buin/img5.jpg"
-    ]
-  },
+      "id": "proyecto-oceano",
+      "titulo": "Oceano",
+      "descripcion": "Info proyecto 1 sobre bla bla",
+      "imagen": "proyectos/proyecto-oceano/cover.jpg",
+      "galeria": [
+        "proyectos/proyecto-oceano/img1.jpg",
+        "proyectos/proyecto-oceano/img2.jpg"
+      ]
+    },
     {
-    "id": "Buinzoo",
-    "titulo": "Infografía de especies Buinzoo",
-    "descripcion": "Uno de los principales desafíos observados en los visitantes del Bioparque es el bajo interés por la lectura durante el recorrido. La experiencia inmersiva entre animales, vegetación y estructuras llamativas genera múltiples estímulos que dificultan que el público se detenga a leer los contenidos informativos. La renovación de estas piezas, además de alinearse con la nueva marca y los conceptos del Parque, buscaba destacar en un entorno altamente visual y evitar que el diseño fuese percibido solo como decoración. Con este objetivo, se decidió eliminar elementos decorativos excesivos para priorizar la claridad del mensaje. Se optó por un diseño más limpio y directo, reduciendo texturas y ornamentos que, si bien resultaban atractivos, terminaban por distraer y provocar fatiga visual.",
-    "imagen": "proyectos/Buinzoo/cover.jpg",
-    "galeria": [
-      "proyectos/Buinzoo/img1.gif",
-      "proyectos/Buinzoo/img2.jpg",
-      "proyectos/Buinzoo/img3.jpg",
-      "proyectos/Buinzoo/img4.jpg"
-    ]
-  }
-]
+      "id": "Municipalidad-Buin",
+      "titulo": "Logotipo Buin",
+      "descripcion": "Identidad visual",
+      "imagen": "proyectos/Municipalidad-Buin/cover.jpg",
+      "galeria": [
+        "proyectos/Municipalidad-Buin/img1.jpg",
+        "proyectos/Municipalidad-Buin/img6.gif",
+        "proyectos/Municipalidad-Buin/img2.jpg",
+        "proyectos/Municipalidad-Buin/img3.jpg",
+        "proyectos/Municipalidad-Buin/img4.jpg",
+        "proyectos/Municipalidad-Buin/img5.jpg"
+      ]
+    },
+    {
+      "id": "Buinzoo",
+      "titulo": "Infografía de especies Buinzoo",
+      "descripcion": "Uno de los principales desafíos observados en los visitantes del Bioparque es el bajo interés por la lectura durante el recorrido. La experiencia inmersiva entre animales, vegetación y estructuras llamativas genera múltiples estímulos que dificultan que el público se detenga a leer los contenidos informativos. La renovación de estas piezas, además de alinearse con la nueva marca y los conceptos del Parque, buscaba destacar en un entorno altamente visual y evitar que el diseño fuese percibido solo como decoración. Con este objetivo, se decidió eliminar elementos decorativos excesivos para priorizar la claridad del mensaje. Se optó por un diseño más limpio y directo, reduciendo texturas y ornamentos que, si bien resultaban atractivos, terminaban por distraer y provocar fatiga visual.",
+      "imagen": "proyectos/Buinzoo/cover.jpg",
+      "galeria": [
+        "proyectos/Buinzoo/img1.gif",
+        "proyectos/Buinzoo/img2.jpg",
+        "proyectos/Buinzoo/img3.jpg",
+        "proyectos/Buinzoo/img4.jpg"
+      ]
+    }
+  ]
+}
