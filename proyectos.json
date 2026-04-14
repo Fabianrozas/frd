@@ -37,11 +37,13 @@
       ]
     },
     {
-      "id": "prueba-sumo",
-      "titulo": "Prueba sumo",
-      "descripcion": "Esto es un aprueba para probar lo que hice",
+      "id": "sumo-transportes",
+      "titulo": "Sumo",
+      "descripcion": "Emprendimiento familiar de transportes.",
       "galeria": [
-        "proyectos/img1.jpg"
+        "proyectos/img-011.jpg",
+        "proyectos/img-01.jpg",
+        "proyectos/img-02.jpg"
       ],
       "imagen": "proyectos/cover.jpg"
     }
