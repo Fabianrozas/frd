@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "id": "proyecto-oceano",
+      "id": "Oceano",
       "titulo": "Oceano",
-      "descripcion": "Info proyecto 1 sobre bla bla",
-      "imagen": "proyectos/proyecto-oceano/cover.jpg",
+      "descripcion": "Logotipo Oceano",
+      "imagen": "proyectos/cover-oceano.jpg",
       "galeria": [
         "proyectos/proyecto-oceano/img1.jpg",
         "proyectos/proyecto-oceano/img2.jpg"
