@@ -212,7 +212,10 @@ img {
     gap: 8px;
     padding: 10px 0;
   }
-
+  .location {
+    display: none;
+  }
+  
   .hero {
     grid-template-columns: 1fr;
     gap: 20px;
