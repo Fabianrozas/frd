@@ -221,6 +221,12 @@ img {
   padding: 28px 0 28px;
   align-items: end;
 }
+
+.hero-left h1 {
+  color:var(--text);
+  font-size: 38px;
+  margin: 0;
+}
   
   .header-inner {
     display: flex;
