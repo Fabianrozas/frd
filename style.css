@@ -246,6 +246,11 @@ img {
 
   .hero h1 {
     font-size: 32px;
+    text-align: left;
+  }
+    .hero-left h1 {
+    font-size: 32px;
+    text-align: center;
   }
 
   .hero h2 {
