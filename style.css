@@ -226,7 +226,7 @@ img {
   color: var(--text);
   font-size: 38px;
   line-height: 1;
-  margin: 18px 0 18px;
+  margin: 0 0 8px;
 }
   
   .header-inner {
