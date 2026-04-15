@@ -223,9 +223,10 @@ img {
 }
 
 .hero-left h1 {
-  color:var(--text);
+  color: var(--text);
   font-size: 38px;
-  margin: 0;
+  line-height: 1;
+  margin: 18px 0 18px;
 }
   
   .header-inner {
