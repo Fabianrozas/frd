@@ -18,7 +18,7 @@ a {
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background: #fffbf0;
+  background: #F3F2EE;
 }
 
 .body-container {
@@ -93,7 +93,7 @@ img {
 }
 
 .btn {
-  color:#fffbf0;
+  color:#F3F2EE;
   background: var(--accent);
   border: none;
   padding: 10px 16px;
