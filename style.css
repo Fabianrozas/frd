@@ -31,8 +31,7 @@ body {
 }
 
 .logo svg {
-  color: #ed6d05;
-  width: 100px; /* el tamaño que necesites */
+  color:var(--accent);
 }
 
 .header-inner {
