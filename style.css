@@ -30,10 +30,9 @@ body {
   border-bottom: 4px solid var(--line);
 }
 
-.logo {
-  font-weight: bold;
-  font-size: 20px;
+.logo svg {
   color: #ed6d05;
+  width: 100px; /* el tamaño que necesites */
 }
 
 .header-inner {
