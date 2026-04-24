@@ -3,7 +3,8 @@
   --accent: #ed6d05;
   --text: #000;
   --muted: #fdde8a; 
-  --line: #451603;
+  --line: 3px solid #451603;
+  
 }
 
 * {
@@ -259,6 +260,10 @@ img {
 
  .location {
     display: none;
+  }
+  
+ .name {
+  display: none;
   }
 
 .hero-left {
