@@ -168,11 +168,57 @@ img {
 
 /* FOOTER */
 .footer {
-  padding: 32px 0;
+  color: var(--text);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 0;
+  font-size: 16px;
+  font-weight: 500;
 }
 
-.footer-inner {
-  text-align: center;
+/* LEFT */
+.footer-left {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.logo {
+  width: 18px;
+  height: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+/* DIVIDER */
+.divider {
+  width: 4px;
+  height: 36px;
+  border-right: var(--line);
+  margin: 0 20px;
+}
+
+/* CENTER */
+.footer-center {
+  display: flex;
+  align-items: center;
+}
+
+/* RIGHT */
+.footer-right {
+  margin-left: auto;
+  text-align: right;
+}
+
+.back-btn {
+  display: inline-block;
+  margin: 20px 0;
+  text-decoration: none;
+  color: var(--accent);
+  font-size: 14px;
 }
 
 .back-btn {
