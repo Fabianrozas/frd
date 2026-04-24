@@ -29,7 +29,7 @@ body {
 
 .header {
   padding: 16px 0;
-  border-bottom: 4px solid var(--line);
+  border-bottom: var(--line);
 }
 
 .logo svg {
@@ -126,7 +126,7 @@ img {
 
 .card h3 {
   padding: 18px 0 18px;
-  border-bottom: 4px solid var(--line);
+  border-bottom: var(--line);
 }
 
 .card p {
@@ -152,8 +152,8 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   padding: 32px 0;
-  border-top: 4px solid var(--line);
-  border-bottom: 4px solid var(--line);
+  border-top: var(--line);
+  border-bottom: var(--line);
 }
 
 .bio p {
