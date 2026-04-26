@@ -192,7 +192,6 @@ img {
   gap: 20px;
   padding: 32px 0;
   border-top: var(--line);
-  border-bottom: var(--line);
 }
 
 .bio p {
@@ -208,6 +207,7 @@ img {
 
 /* FOOTER */
 .footer {
+  border-top: var(--line);
   color: var(--text);
   display: flex;
   align-items: center;
