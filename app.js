@@ -6,8 +6,13 @@ fetch('proyectos.json')
     data.items.forEach(p => {
       contenedor.innerHTML += `
   <a href="proyecto.html?id=${p.id}" class="card">
-    <img src="${p.imagen}" alt="${p.titulo}" />
-    <h3>${p.titulo}</h3>
+    <div class="card-img-wrapper">
+      <img src="${p.imagen}" alt="${p.titulo}" />
+      <div class="card-overlay">
+        <h3>${p.titulo}</h3>
+        <p>${p.descripcion}</p>
+      </div>
+    </div>
   </a>
 `;
     });
