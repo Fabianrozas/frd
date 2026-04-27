@@ -145,14 +145,14 @@ img {
 }
 
 .card-overlay h3 {
-  color: #fff;
+  color: var(--text);
   font-size: 1.2rem;
   margin: 0 0 6px;
   line-height: 1.2;
 }
 
 .card-overlay p {
-  color: rgba(255, 255, 255, 0.85);
+  color: var(--text);
   font-size: 13px;
   margin: 0;
   font-weight: 500;
