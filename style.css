@@ -95,15 +95,14 @@ img {
 }
 
 .btn {
-  color:#F3F2EE;
+  color: black;
   background: var(--accent);
   border: none;
   padding: 10px 16px;
-  border-radius: 999px;
+  font-weight: 900;
   font-size: 14px;
   cursor: pointer;
   align-self: flex-start;
-}
 
 .grid {
   display: grid;
