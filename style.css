@@ -44,7 +44,8 @@ body {
 }
 
 .location {
-  text-align: center;
+  text-align: right;
+  padding: 0 18;
   font-size: 13px;
   color: var(--text);
 }
