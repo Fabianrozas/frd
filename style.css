@@ -4,6 +4,7 @@
   --text: #000;
   --muted: #fdde8a; 
   --line: 3px solid #451603;
+  --padding-box: 0px 0px 64px 0px;
   
 }
 
@@ -16,6 +17,11 @@
 
 a {
   color:var(--text);
+}
+
+h4 {
+  padding: 40px 0 18px 0;
+  text-transform: uppercase;
 }
 
 body {
@@ -109,7 +115,8 @@ img {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 20px;
-  padding: 28px 0 75px;
+  padding: var(--padding-box);
+  border-bottom: var(--line);
 }
 
 .card {
@@ -191,8 +198,7 @@ img {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
-  padding: 32px 0;
-  border-top: var(--line);
+  padding: var(--padding-box);
 }
 
 .bio p {
