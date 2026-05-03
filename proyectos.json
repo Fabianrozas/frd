@@ -68,6 +68,16 @@
         "proyectos/diplo_03.jpg",
         "proyectos/diplo_04.jpg"
       ]
+    },
+    {
+      "id": "chevy-van",
+      "titulo": "Van-Hell",
+      "descripcion": "Trabajo realizado 100% en Photoshop para idea de estampado en serigrafía.",
+      "imagen": "proyectos/chevy_a.jpg",
+      "galeria": [
+        "proyectos/chevy_b.jpg",
+        "proyectos/chevy_c.jpg"
+      ]
     }
   ]
 }
