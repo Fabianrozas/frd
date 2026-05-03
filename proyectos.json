@@ -88,6 +88,18 @@
         "proyectos/comunidad_02.jpg",
         "proyectos/comunidad_03.jpg"
       ]
+    },
+    {
+      "id": "protitipo-padrinos",
+      "titulo": "Padrinos del Bioparque",
+      "descripcion": "Diseño de prototipado para la sección de Padrinos del Bioparque de Buinzoo, diseñado 100% en Figma.",
+      "imagen": "proyectos/padrinos_01.jpg",
+      "galeria": [
+        "proyectos/comp-1.gif",
+        "proyectos/comp-2.gif",
+        "proyectos/comp-3.gif",
+        "proyectos/padrinos_02.png"
+      ]
     }
   ]
 }
