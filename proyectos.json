@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "id": "Oceano",
-      "titulo": "Oceano",
-      "descripcion": "Logotipo Oceano",
-      "imagen": "proyectos/cover-oceano.jpg",
-      "galeria": [
-        "proyectos/proyecto-oceano/img1.jpg",
-        "proyectos/proyecto-oceano/img2.jpg"
-      ]
-    },
-    {
       "id": "Municipalidad-Buin",
       "titulo": "Logotipo Buin",
       "descripcion": "Identidad visual",
@@ -46,6 +36,17 @@
         "proyectos/img-02.jpg"
       ],
       "imagen": "proyectos/cover.jpg"
+    },
+    {
+      "id": "pacifico",
+      "titulo": "Pacífico",
+      "descripcion": "Marca conceptual, inspirada en el océano que mezcla cultura surf, identidad local y diseño moderno para productos cotidianos ligados a la vida de playa.",
+      "imagen": "proyectos/01.jpg",
+      "galeria": [
+        "proyectos/02.jpg",
+        "proyectos/03.jpg",
+        "proyectos/04.jpg"
+      ]
     }
   ]
 }
