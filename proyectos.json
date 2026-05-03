@@ -57,6 +57,17 @@
         "proyectos/araucaria-02.jpg",
         "proyectos/araucaria-03.jpg"
       ]
+    },
+    {
+      "id": "diplo",
+      "titulo": "Diplo",
+      "descripcion": "Logotipo que integra una figura de dinosaurio estilizado de formas simples, transmite infancia, cercanía y juego. La forma es amigable, fácil de reconocer y adaptable a distintos soportes.",
+      "imagen": "proyectos/diplo_01.jpg",
+      "galeria": [
+        "proyectos/diplo_02.jpg",
+        "proyectos/diplo_03.jpg",
+        "proyectos/diplo_04.jpg"
+      ]
     }
   ]
 }
