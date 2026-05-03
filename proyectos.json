@@ -47,6 +47,16 @@
         "proyectos/03.jpg",
         "proyectos/04.jpg"
       ]
+    },
+    {
+      "id": "araucarias",
+      "titulo": "Araucarias",
+      "descripcion": "Diseño de patrón modular geométrico.",
+      "imagen": "proyectos/araucaria-01.jpg",
+      "galeria": [
+        "proyectos/araucaria-02.jpg",
+        "proyectos/araucaria-03.jpg"
+      ]
     }
   ]
 }
