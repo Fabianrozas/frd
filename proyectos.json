@@ -78,6 +78,16 @@
         "proyectos/chevy_b.jpg",
         "proyectos/chevy_c.jpg"
       ]
+    },
+    {
+      "id": "comunidad-aguas",
+      "titulo": "Comunidad de Aguas - El Diamante",
+      "descripcion": "Colaboración para formalización de marca para organización de usuarios de aguas del sector de parcelas El Diamante.",
+      "imagen": "proyectos/comunidad_01.jpg",
+      "galeria": [
+        "proyectos/comunidad_02.jpg",
+        "proyectos/comunidad_03.jpg"
+      ]
     }
   ]
 }
