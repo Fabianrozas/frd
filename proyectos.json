@@ -88,6 +88,15 @@
         "proyectos/comunidad_02.jpg",
         "proyectos/comunidad_03.jpg"
       ]
+    },
+    {
+      "id": "web-padrinos",
+      "titulo": "Padrinos del Bioparque",
+      "descripcion": "Diseño de apartado web de Padrinos del Bioparque, prototipo en Figma. ",
+      "imagen": "proyectos/padrinos_01.jpg",
+      "galeria": [
+        "proyectos/padrinos_02.jpg"
+      ]
     }
   ]
 }
