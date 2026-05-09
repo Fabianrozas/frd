@@ -87,6 +87,18 @@
       "galeria": [
         "proyectos/padrinos_02.jpg"
       ]
+    },
+    {
+      "id": "colegio-patagonia",
+      "titulo": "Propuesta de marca para el Colegio Patagonia de Buin",
+      "descripcion": "La propuesta busca desarrollar una identidad visual simple, versátil y fácil de aplicar en distintos formatos. El concepto gráfico interpreta una escena inspirada en la Patagonia, utilizando trazos claros y formas limpias, priorizando en todo momento la simplicidad, cercanía y facilidad de reconocimiento de la marca.",
+      "imagen": "proyectos/cover-patagonia.jpg",
+      "galeria": [
+        "proyectos/patagonia-01.jpg",
+        "proyectos/patagonia-02.jpg",
+        "proyectos/patagonia-03.jpg",
+        "proyectos/patagonia-04.jpg"
+      ]
     }
   ]
 }
