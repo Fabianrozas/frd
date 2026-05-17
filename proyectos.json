@@ -99,6 +99,17 @@
         "proyectos/patagonia-033.jpg",
         "proyectos/patagonia-044.jpg"
       ]
+    },
+    {
+      "id": "Abastible",
+      "titulo": "Rediseño de Abastible",
+      "descripcion": "La propuesta nace desde una observación crítica de la identidad actual: Una marca con poca capacidad distintiva, escasa personalidad visual y elementos que no logran generar un vínculo reconocible con la audiencia. Frente a eso, el desafío fue desarrollar un sistema con mayor identidad, carácter y recordación, aportándole una presencia más contemporánea y con mayor carisma.",
+      "imagen": "proyectos/abastible-cover.jpg",
+      "galeria": [
+        "proyectos/abastible_01.jpg",
+        "proyectos/abastible_02.jpg",
+        "proyectos/abastible_03.jpg"
+      ]
     }
   ]
 }
