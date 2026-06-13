@@ -110,6 +110,21 @@
         "proyectos/abastible_02.jpg",
         "proyectos/abastible_03.jpg"
       ]
+    },
+    {
+      "id": "buinzoo",
+      "titulo": "Bioparque Buinzoo",
+      "descripcion": "El desafío consistía en sintetizar una marca con múltiples dimensiones: cercana y atractiva para niños, pero respaldada por un propósito sólido de educación y conservación ambiental. Como organización, su labor se centra en generar conciencia y construir un legado en torno al cuidado de los ecosistemas, inspirando tanto a niños como a sus familias.\n\nA partir de esta premisa se definieron los conceptos fundamentales que dieron origen al sistema visual: ciclo de vida, sostenibilidad, ecosistema y protección. Estos pilares guiaron el desarrollo de una identidad capaz de comunicar de forma clara, educativa y accesible, manteniendo coherencia entre el componente lúdico de la marca y su compromiso con el medioambiente.",
+      "imagen": "proyectos/cover.png",
+      "galeria": [
+        "proyectos/bz_01.jpg",
+        "proyectos/bz_02.jpg",
+        "proyectos/bz_03.jpg",
+        "proyectos/bz_04.jpg",
+        "proyectos/bz_05.jpg",
+        "proyectos/bz_06.jpg",
+        "proyectos/bz_07.jpg"
+      ]
     }
   ]
 }
