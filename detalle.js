@@ -17,14 +17,19 @@ fetch("proyectos.json")
 
     if (proyecto.galeria) {
       proyecto.galeria.forEach(img => {
-        galeriaHTML += `<img src="${img}" />`;
+        galeriaHTML += `
+          <div class="galeria-item">
+            <img src="${img}" />
+          </div>`;
       });
     }
 
     contenedor.innerHTML = `
       <h1>${proyecto.titulo}</h1>
       <p>${proyecto.descripcion}</p>
-      <img src="${proyecto.imagen}" />
+      <div class="img-scroll-wrapper">
+        <img src="${proyecto.imagen}" />
+      </div>
 
       <div class="galeria">
         ${galeriaHTML}

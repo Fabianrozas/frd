@@ -193,6 +193,18 @@ img {
   padding: 20px 0;
 }
 
+/* Wrapper para imagen principal en proyecto */
+.img-scroll-wrapper {
+  width: 100%;
+  overflow: hidden;
+}
+
+.img-scroll-wrapper img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 /* BIO */
 .bio {
   display: grid;
@@ -360,6 +372,49 @@ img {
   .works {
     grid-template-columns: 1fr;
   }
-  
+
+  /* ----- Imágenes proyecto en mobile: scroll horizontal ----- */
+
+  /* Imagen principal del proyecto */
+  .img-scroll-wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    height: 55vw;
+    border-radius: 4px;
+  }
+
+  .img-scroll-wrapper img {
+    width: auto;
+    height: 100%;
+    max-width: none;
+    display: block;
+    scroll-snap-align: start;
+  }
+
+  /* Galería de imágenes */
+  .galeria {
+    gap: 12px;
+    padding: 12px 0;
+  }
+
+  .galeria-item {
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    height: 55vw;
+    border-radius: 4px;
+  }
+
+  .galeria-item img {
+    width: auto;
+    height: 100%;
+    max-width: none;
+    display: block;
+    scroll-snap-align: start;
+  }
 
 }
